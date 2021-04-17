@@ -1,5 +1,5 @@
 package hu.bme.mit.spaceship;
-
+//branch-B
 /**
 * Weapon firing mode enumeration
 *
